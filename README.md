@@ -1,2 +1,2 @@
-# Criando um Sistema Bancario com Python
+# Criando um Sistema Bancário com Python
 Desafio de projeto do Bootcamp: Python AI Backend Developer
